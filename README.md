@@ -1,3 +1,3 @@
 # Basic-Fourier-Series
 
-![Alt text](https://github.com/ThomasHarris0147/Basic-Fourier-Series/tree/main/1vector.jpg?raw=true "Optional Title")
+![Image of 1 vector](https://github.com/ThomasHarris0147/Basic-Fourier-Series/blob/main/1vector.png)
